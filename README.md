@@ -1,1 +1,1 @@
-# SCUACMOJ
+# Demo_OJ
